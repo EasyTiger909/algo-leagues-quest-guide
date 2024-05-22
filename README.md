@@ -37,6 +37,7 @@
 4. Click the Approval icon (Thumbs Up 👍️)
 5. Enter the Approve account `C46D7INVWU4U2CPOE5NVZT6ZB5NWOLU57U6BDTRFGEDWRKHTT7SPG3JTCA`
 6. Enter the quantity of tokens you plan to spend
+7. *This quest will not be registered completed until either Quest 6 or 7 is started*
 
 ## Quest 6: Send a Smart Asset to another Discord user
 
