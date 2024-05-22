@@ -45,13 +45,13 @@
 3. Hit the **Wallet (ARC-200)** button
 4. Hit the **Select** button to choose from list of tokens approved to spend
 5. Confirm the send.
-> If the receipient has a confirmed address in Algo Leagues, the token will be transferred directly from your account to the users account on the blockchain. Otherwise, it will go to their Algo Leagues balance to be withdrawn later.
+> If the receipient has a confirmed address for Algo Leagues, the token will be transferred directly from your account to the users account on the blockchain. Otherwise, it will go to their Algo Leagues balance to be withdrawn later.
 
-## Quest 7: Rain a Smart Asset to users in an active Discord channel
+## Quest 7: Rain a Smart Asset to active users in an Discord channel
 
 1. Use the `/rain` command in Discord and specify a quantity
 2. Hit the **Network** button to switch to Voi Testnet if needed
 3. Hit the **Wallet (ARC-200)** button
 4. Hit the **Select** button to choose from list of tokens approved to spend
 5. Confirm the rain.
-> Each user that has a confirmed address in Algo Leagues will receive the tokens directly from your account to their account on the blockchain. Users without a confirmed address will have the tokens go to their Algo Leagues balance to be withdrawn later.
+> Each user that has a confirmed address for Algo Leagues will receive the tokens directly from your account to their account on the blockchain. Users without a confirmed address will have the tokens go to their Algo Leagues balance to be withdrawn later.
